@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "name": "Barcelona",
+      "group": 1,
+      "index": 0
+    },
+    {
+      "name": "Man u",
+      "group": 1,
+      "index": 1
+    },
+    {
+      "name": "Man city",
+      "group": 1,
+      "index": 2
+    },
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1
+    }
+  ]
+}
