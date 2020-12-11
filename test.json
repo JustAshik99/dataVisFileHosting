@@ -1,27 +1,217 @@
 {
   "nodes": [
     {
-      "name": "Myriel",
+      "name": "Barclays Premier League",
       "group": 1,
       "index": 0
     },
     {
-      "name": "Napoleon",
-      "group": 1,
+      "name": "Spanish Primera Division",
+      "group": 2,
       "index": 1
     },
     {
-      "name": "Mlle.Baptistine",
-      "group": 1,
+      "name": "German Bundesliga",
+      "group": 3,
       "index": 2
     },
     {
-      "name": "Mme.Magloire",
-      "group": 1,
+      "name": "Italy Serie A",
+      "group": 4,
       "index": 3
+    },
+    {
+      "name": "French Ligue 1",
+      "group": 5,
+      "index": 4
+    },
+    {
+      "name": "Brasileiro Série A",
+      "group": 6,
+      "index": 5
+    },
+    {
+      "name": "Russian Premier Liga",
+      "group": 7,
+      "index": 6
+    },
+    {
+      "name": "Portuguese Liga",
+      "group": 8,
+      "index": 7
+    },
+    {
+      "name": "English League Championship",
+      "group": 9,
+      "index": 8
+    },
+    {
+      "name": "Mexican Primera Division Torneo Clausura",
+      "group": 10,
+      "index": 9
+    },
+    {
+      "name": "Dutch Eredivisie",
+      "group": 11,
+      "index": 10
+    },
+    {
+      "name": "Mexican Primera Division Torneo Apertura",
+      "group": 12,
+      "index": 11
+    },
+    {
+      "name": "Swiss Raiffeisen Super League",
+      "group": 13,
+      "index": 12
+    },
+    {
+      "name": "Austrian T-Mobile Bundesliga",
+      "group": 14,
+      "index": 13
+    },
+    {
+      "name": "Argentina Primera Division",
+      "group": 15,
+      "index": 14
+    },
+    {
+      "name": "Belgian Jupiler League",
+      "group": 16,
+      "index": 15
+    },
+    {
+      "name": "Chinese Super League",
+      "group": 17,
+      "index": 16
+    },
+    {
+      "name": "Turkish Turkcell Super Lig",
+      "group": 18,
+      "index": 17
+    },
+    {
+      "name": "Danish SAS-Ligaen",
+      "group": 19,
+      "index": 18
+    },
+    {
+      "name": "Greek Super League",
+      "group": 20,
+      "index": 19
+    },
+    {
+      "name": "Major League Soccer",
+      "group": 21,
+      "index": 20
+    },
+    {
+      "name": "Spanish Segunda Division",
+      "group": 22,
+      "index": 21
+    },
+    {
+      "name": "German 2 Bundesliga",
+      "group": 23,
+      "index": 22
+    },
+    {
+      "name": "Japanese J League",
+      "group": 24,
+      "index": 23
+    },
+    {
+      "name": "Scottish Premiership",
+      "group": 25,
+      "index": 24
+    },
+    {
+      "name": "French Ligue 2",
+      "group": 26,
+      "index": 25
+    },
+    {
+      "name": "Swedish Allsvenskan",
+      "group": 27,
+      "index": 26
+    },
+    {
+      "name": "Norwegian Tippeligaen",
+      "group": 28,
+      "index": 27
+    },
+    {
+      "name": "Australian A-League",
+      "group": 29,
+      "index": 28
+    },
+    {
+      "name": "Italy Serie B",
+      "group": 30,
+      "index": 29
+    },
+    {
+      "name": "English League One",
+      "group": 31,
+      "index": 30
+    },
+    {
+      "name": "South African ABSA Premier League",
+      "group": 32,
+      "index": 31
+    },
+    {
+      "name": "United Soccer League",
+      "group": 33,
+      "index": 32
+    },
+    {
+      "name": "English League Two",
+      "group": 34,
+      "index": 33
     }
   ],
   "links": [
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
     {
       "source": 0,
       "target": 1,
@@ -29,6 +219,161 @@
     },
     {
       "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 25,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 30,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 24,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 28,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
       "target": 2,
       "value": 1
     },
@@ -38,13 +383,683 @@
       "value": 1
     },
     {
-      "source": 1,
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 30,
+      "value": 1
+    },
+    {
+      "source": 0,
       "target": 3,
       "value": 1
     },
     {
-      "source": 1,
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
       "target": 2,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 30,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 24,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 24,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 25,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 30,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 24,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 30,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 30,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 25,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 30,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 30,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 24,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 24,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 24,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 32,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 30,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 24,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 30,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 33,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 30,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 0,
+      "target": 30,
       "value": 1
     }
   ]
