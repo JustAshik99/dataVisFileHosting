@@ -2,218 +2,218 @@
   "nodes": [
     {
       "name": " England Premier League",
-      "group": 1,
-      "index": 3
+      "index": 1,
+      "group": 3
     },
     {
       "name": " Spain LaLiga",
-      "group": 2,
-      "index": 3
+      "index": 2,
+      "group": 3
     },
     {
       "name": " Germany Bundesliga",
-      "group": 3,
-      "index": 3
+      "index": 3,
+      "group": 3
     },
     {
       "name": "  German Bundesliga",
-      "group": 3,
-      "index": 3
+      "index": 3,
+      "group": 3
     },
     {
       "name": " Italy Serie A",
-      "group": 4,
-      "index": 3
+      "index": 4,
+      "group": 3
     },
     {
       "name": " France Ligue 1",
-      "group": 5,
-      "index": 3
+      "index": 5,
+      "group": 3
     },
     {
       "name": " Brazil Série A",
-      "group": 6,
-      "index": 3
+      "index": 6,
+      "group": 3
     },
     {
       "name": " Russia Premier Liga",
-      "group": 7,
-      "index": 3
+      "index": 7,
+      "group": 3
     },
     {
       "name": " Portugal Liga NOS",
-      "group": 8,
-      "index": 3
+      "index": 8,
+      "group": 3
     },
     {
       "name": " England Championship",
-      "group": 9,
-      "index": 3
+      "index": 9,
+      "group": 3
     },
     {
       "name": "  Mexican Primera Division Torneo Clausura",
-      "group": 10,
-      "index": 3
+      "index": 10,
+      "group": 3
     },
     {
       "name": " Netherlands Eredivisie",
-      "group": 11,
-      "index": 3
+      "index": 11,
+      "group": 3
     },
     {
       "name": "  Mexican Primera Division Torneo Apertura",
-      "group": 12,
-      "index": 3
+      "index": 12,
+      "group": 3
     },
     {
       "name": "  Swiss Raiffeisen Super League",
-      "group": 13,
-      "index": 3
+      "index": 13,
+      "group": 3
     },
     {
       "name": " Saudi Arabia Professional League",
-      "group": 36,
-      "index": 3
+      "index": 36,
+      "group": 3
     },
     {
       "name": " Austria Bundesliga",
-      "group": 14,
-      "index": 3
+      "index": 14,
+      "group": 3
     },
     {
       "name": "  Argentina Primera Division",
-      "group": 15,
-      "index": 3
+      "index": 15,
+      "group": 3
     },
     {
       "name": "  Belgian Jupiler League",
-      "group": 16,
-      "index": 3
+      "index": 16,
+      "group": 3
     },
     {
       "name": " Chinese Super League",
-      "group": 17,
-      "index": 3
+      "index": 17,
+      "group": 3
     },
     {
       "name": "  Turkish Turkcell Super Lig",
-      "group": 18,
-      "index": 3
+      "index": 18,
+      "group": 3
     },
     {
       "name": "  Danish SAS-Ligaen",
-      "group": 19,
-      "index": 3
+      "index": 19,
+      "group": 3
     },
     {
       "name": "  Greek Super League",
-      "group": 20,
-      "index": 3
+      "index": 20,
+      "group": 3
     },
     {
       "name": " United States MLS",
-      "group": 21,
-      "index": 3
+      "index": 21,
+      "group": 3
     },
     {
       "name": "  Spanish Segunda Division",
-      "group": 22,
-      "index": 3
+      "index": 22,
+      "group": 3
     },
     {
       "name": "  German 2 Bundesliga",
-      "group": 23,
-      "index": 3
+      "index": 23,
+      "group": 3
     },
     {
       "name": "  Japanese J League",
-      "group": 24,
-      "index": 3
+      "index": 24,
+      "group": 3
     },
     {
       "name": "  Scottish Premiership",
-      "group": 25,
-      "index": 3
+      "index": 25,
+      "group": 3
     },
     {
       "name": "  French Ligue 2",
-      "group": 26,
-      "index": 3
+      "index": 26,
+      "group": 3
     },
     {
       "name": "  Swedish Allsvenskan",
-      "group": 27,
-      "index": 3
+      "index": 27,
+      "group": 3
     },
     {
       "name": "  Norwegian Tippeligaen",
-      "group": 28,
-      "index": 3
+      "index": 28,
+      "group": 3
     },
     {
       "name": "  Australian A-League",
-      "group": 29,
-      "index": 3
+      "index": 29,
+      "group": 3
     },
     {
       "name": " Italy Serie B",
-      "group": 30,
-      "index": 3
+      "index": 30,
+      "group": 3
     },
     {
       "name": "  English League One",
-      "group": 31,
-      "index": 3
+      "index": 31,
+      "group": 3
     },
     {
       "name": "  South African ABSA Premier League",
-      "group": 32,
-      "index": 3
+      "index": 32,
+      "group": 3
     },
     {
       "name": "  United Soccer League",
-      "group": 33,
-      "index": 3
+      "index": 33,
+      "group": 3
     },
     {
       "name": "  English League Two",
-      "group": 34,
-      "index": 3
+      "index": 34,
+      "group": 3
     },
     {
       "name": " Turkey Süper Lig",
-      "group": 35,
-      "index": 3
+      "index": 35,
+      "group": 3
     },
     {
       "name": " France Ligue 2",
-      "group": 38,
-      "index": 3
+      "index": 38,
+      "group": 3
     },
     {
       "name": " Croatia 1.HNL",
-      "group": 39,
-      "index": 3
+      "index": 39,
+      "group": 3
     },
     {
       "name": " Romania Liga 1",
-      "group": 40,
-      "index": 3
+      "index": 40,
+      "group": 3
     },
     {
       "name": " Serbia Super liga Srbije",
-      "group": 41,
-      "index": 3
+      "index": 41,
+      "group": 3
     },
     {
       "name": " Uruguay Torneo Intermedio",
-      "group": 42,
-      "index": 3
+      "index": 42,
+      "group": 3
     },
     {
       "name": " Turkey Süper Lig",
-      "group": 43,
-      "index": 3
+      "index": 43,
+      "group": 3
     }
   ],
   "links": [
